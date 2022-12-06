@@ -1,4 +1,5 @@
 # Project Movies
+Its an app of displaying movie list from API and details of specific movie when click on it.
 
 ## Using the API ⚡️
 
@@ -59,4 +60,4 @@ Your project should fulfill the **🔵  Blue Level** and all of the **General Re
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://gentle-empanada-7989b9.netlify.app
